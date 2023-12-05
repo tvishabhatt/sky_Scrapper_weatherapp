@@ -23,7 +23,7 @@ class SplaceScreenState extends State<SplaceScreen> with TickerProviderStateMixi
 
     _animationController = AnimationController(
       vsync: this,
-      duration: Duration(seconds: 2),
+      duration: Duration(seconds:4),
     );
 
 
@@ -44,7 +44,7 @@ class SplaceScreenState extends State<SplaceScreen> with TickerProviderStateMixi
     _animationController.forward();
 
 
-    Future.delayed(Duration(seconds: 4),() =>
+    Future.delayed(Duration(seconds: 5),() =>
         Navigator.pushReplacement(context,MaterialPageRoute(builder: (context) => HomePage(),)),);
   }
   @override
