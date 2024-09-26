@@ -1,35 +1,20 @@
-# sky_pr5
+Sky Scrapper 🌤️
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter-based weather application that provides real-time weather updates for your location. This app is designed with a sleek UI and offers dynamic weather insights, forecasts, and much more!
 
 
 
+Features 🚀
 
+🌍 Global Weather Tracking: Get weather updates from any location in the world.
+🌦️ Real-time Data: Current temperature, wind speed, humidity, and weather conditions.
+🔄 Dynamic Updates: Auto-refresh for the latest weather data.
+🎨 Clean UI Design: Easy-to-use interface with a focus on user experience.
+📅 5-Day Forecast: Get an overview of weather trends for the coming days.
+🌞 Theme Adaptation: UI adjusts based on weather conditions (e.g., sunny, rainy).
 
-https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ff15f41f-a619-4c87-bdca-8778619def00
+Screenshots 📸
 
+Here’s a preview of the app's interface:
 
-
-
-![WhatsApp Image 2023-11-26 at 15 20 29](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ef5a03b3-69cf-488b-9879-eabe343a4dfe)
-![WhatsApp Image 2023-11-26 at 15 20 31](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/465fdd8d-3bb9-4445-a2c7-9e23a044d85d)
-![WhatsApp Image 2023-11-26 at 15 20 30 (1)](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/bb6028de-73da-4c7f-becc-510572ee9d10)
-![WhatsApp Image 2023-11-26 at 15 20 30](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/8e208001-ebf0-4152-99ec-c7b2e2481c84)
-![WhatsApp Image 2023-11-26 at 15 20 31 (1)](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/cd3bee60-6e90-42e4-81f8-b7af47a2e104)
-![WhatsApp Image 2023-11-26 at 15 20 32 (1)](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/1868d25c-cf58-473e-8d60-da463471ed5e)
-![WhatsApp Image 2023-11-26 at 15 20 32](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/dd8c4f66-e049-4816-a53b-5d5ac61aaa5b)
-![WhatsApp Image 2023-11-26 at 15 23 14](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/77efa2c4-71c5-4246-92f9-6e38b9849a23)
-![WhatsApp Image 2023-11-26 at 15 20 31 (2)](https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/082b171c-efb5-4eb9-8e35-ea3071ea9abb)
+<div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ef5a03b3-69cf-488b-9879-eabe343a4dfe" alt="Weather Home Screen" width="250"/> <p>Home Screen</p> </div> <div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/465fdd8d-3bb9-4445-a2c7-9e23a044d85d" alt="Weather Details Screen" width="250"/> <p>Weather Details Screen</p> </div> <div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/cd3bee60-6e90-42e4-81f8-b7af47a2e104" alt="5-Day Forecast" width="250"/> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/dd8c4f66-e049-4816-a53b-5d5ac61aaa5b" alt="Settings Screen" width="250"/> <p>5-Day Forecast & Settings</p> </div>
