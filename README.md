@@ -21,4 +21,4 @@ Here’s a preview of the app's interface:
 
 
  Video 🎥
-<div allign="center"> <video src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ff15f41f-a619-4c87-bdca-8778619def00" width="250"/></video></div>
+<div align="center"> <a href="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ff15f41f-a619-4c87-bdca-8778619def00"> <img src="https://img.youtube.com/vi/ff15f41f-a619-4c87-bdca-8778619def00/0.jpg" alt="App Video Demo" width="250"/> </a> <p>App Demo Video</p> </div>
