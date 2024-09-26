@@ -18,3 +18,7 @@ Screenshots 📸
 Here’s a preview of the app's interface:
 
 <div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ef5a03b3-69cf-488b-9879-eabe343a4dfe" alt="Weather Home Screen" width="250"/> <p>Home Screen</p> </div> <div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/465fdd8d-3bb9-4445-a2c7-9e23a044d85d" alt="Weather Details Screen" width="250"/> <p>Weather Details Screen</p> </div> <div align="center"> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/cd3bee60-6e90-42e4-81f8-b7af47a2e104" alt="5-Day Forecast" width="250"/> <img src="https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/dd8c4f66-e049-4816-a53b-5d5ac61aaa5b" alt="Settings Screen" width="250"/> <p>5-Day Forecast & Settings</p> </div>
+
+
+
+https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ff15f41f-a619-4c87-bdca-8778619def00
