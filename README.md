@@ -11,7 +11,7 @@ Features 🚀
 🔄 Dynamic Updates: Auto-refresh for the latest weather data.
 🎨 Clean UI Design: Easy-to-use interface with a focus on user experience.
 📅 5-Day Forecast: Get an overview of weather trends for the coming days.
-🌞 Theme Adaptation: UI adjusts based on weather conditions (e.g., sunny, rainy).
+🌞 Theme Adaptation: UI adjust based on user selecr theme.
 
 Screenshots 📸
 
@@ -21,4 +21,4 @@ Here’s a preview of the app's interface:
 
 
 
-https://github.com/tvishabhatt/sky_Scrapper_weatherapp/assets/122964289/ff15f41f-a619-4c87-bdca-8778619def00
+Click the image above to watch a demo video.
